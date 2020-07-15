@@ -29,8 +29,8 @@ cat >remove-mikhmon <<EOL
 #bin/bash
 rm -rf mikhmonv3
 EOL
-cat >.bashrc <<EOL	
-~/start-mikhmon	
+cat >.bashrc <<EOL
+~/start-mikhmon
 EOL
 chmod +x start-mikhmon
 chmod +x update-mikhmon
