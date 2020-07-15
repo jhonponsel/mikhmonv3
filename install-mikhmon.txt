@@ -1,5 +1,5 @@
 #bin/bash
-pkg install git php -y
+pkg install git.php -y
 git clone https://github.com/jhonponsel/mikhmonv3.git
 cat >start-mikhmon <<EOL
 #bin/bash
